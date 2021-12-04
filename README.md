@@ -1,2 +1,2 @@
 # python-projects
-hello
+This repository holds different python projects I have worked on
