@@ -1,0 +1,4 @@
+The Text File uploaded does not meet the Standard Requirement.Please find below the list of discrepancies in the file.
+1. The Name of the first column provided in the text file is not correct. It must be Cycle(case sensitive).
+
+Please visit this link www.help.com for the standard documentation of the input file
